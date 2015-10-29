@@ -70,6 +70,7 @@ oauth2rizer = ({ client_id, client_secret, auth_uri, token_uri, redirect_uri,
     #sessionStorage.token_type = token_type
     #sessionStorage.expires_at = expires_at
     #sessionStorage.access_token = access_token
+    access_token
   revoke ?= (token) ->
     delete localStorage.host
     delete localStorage.refresh_token
