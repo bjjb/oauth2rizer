@@ -1,6 +1,6 @@
 {
   "name": "oauth2rizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An OAuth2 helper for JavaScript clients and servers",
   "main": "oauth2rizer.js",
   "scripts": {
