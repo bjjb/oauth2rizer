@@ -1,0 +1,10 @@
+To do list
+==========
+
+- [ ] Browser tests
+- [ ] Task to publish browser tests on gh-pages
+- [ ] NodeJS tests
+- [ ] Proper documentation
+- [ ] Travis CI badge
+- [ ] Support, tests and documentation for other providers
+- [ ] CLI
